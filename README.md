@@ -4,15 +4,22 @@
 
 <img src="imgs\qq.png" alt="qq" style="zoom: 67%;" />
 
-## 线路列表
+### 1.1 线路列表
 
 * **cn-fz-dx.sakuraf rp.com:12421** 
 * **cn-sq-yd.sakurafrp.com:12422**
 * **cn-zj-bgp-2.sakurafrp.com:14567**
 
-## 插件功能
+### 1.2 插件功能
 
 * [网页地图](http://cn-zj-bgp-2.sakurafrp.com:12421)
+
+### 1.3 服务器规则
+
+1. 不要破坏他人制作的建筑。
+2. 不要滥拿资源和翻别人私有的箱子。
+3. 不要炸服。
+4. 其他做啥事都可以，祝你好运。
 
 -------------------------
 
