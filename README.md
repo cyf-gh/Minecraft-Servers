@@ -2,7 +2,7 @@
 
 ## 1. 纯净生存服（群：897754430）
 
-<img src="imgs\qq.png" alt="qq" style="zoom: 67%;" />
+![qq](imgs/qq.png)
 
 ### 1.1 线路列表
 
@@ -26,5 +26,5 @@
 # 捐助我
 
 ~~求求各位老板了，开服务器也是有成本的，要qia饭的嘛。~~
-
-## <img src="imgs\zfb.jpg" alt="zfb" style="zoom:50%;" />
+* ## 支付宝：18217203406
+![支付宝](imgs/zfb.jpg)  
